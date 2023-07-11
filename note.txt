@@ -1,0 +1,10 @@
+npm i react-router-dom
+
+BrowserRouter, Routes, Route
+
+// home page - input field , template those  image, name
+// BAout - mission and vission
+// single meal page - video, descriptoikn, arae, ingeredients
+// error page - button that takes home page 
+
+// 
